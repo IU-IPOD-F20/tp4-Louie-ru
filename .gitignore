@@ -27,3 +27,5 @@ target
 .factorypath
 .project
 .settings
+.idea
+pizzeria.iml
